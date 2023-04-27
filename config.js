@@ -15,7 +15,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 module.exports = {
     VERSION: 'Cyberx 1.1',
     CHANNEL: 'https://t.me/',
-    SESSION: process.env.EDM_SESSION === undefined ? 'AQUA=1lQAwJgC#JEpP3YmEQ1V6487mG3d7UnkPGfCxeNAAr7ZBKWfKFJU' : process.env.EDM_SESSION,
+    SESSION: process.env.EDM_SESSION === undefined ? 'AQUA=1l 'AQUA=JlIFFYzL#qWI8N-s1cT6S-7HXxx5f2NTVBFLDJNd5tOaxG9bfoA0' : process.env.EDM_SESSION,
     AUTO_REACT: process.env.AUTO_REACT === undefined ? 'false' : process.env.AUTO_REACT,
     URL_1NAME: process.env.URL_1NAME === undefined ? 'Youtube' : process.env.URL_1NAME,
     URL_1LINK: process.env.URL_1LINK === undefined ? 'https://www.youtube.com' : process.env.URL_1LINK,
